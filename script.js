@@ -5,7 +5,7 @@ function carregar() {
     var data = new Date()
     var hora = data.getHours()
 
-        //hora = 18 //para testar as condicionais
+        //hora = 18 //to test the conditionals
 
         msg.innerHTML = `Agora são ${hora} horas.`
 
